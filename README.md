@@ -1,4 +1,4 @@
-# Simple Notes App By Amal Raj
+# Simple Notes App By Amal Raj . please go though.!!
 This is a simple notes app built with React and Django.
 
 ## Requirements
